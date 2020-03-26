@@ -1,0 +1,45 @@
+body {
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgb(192, 202, 52);
+}
+
+ul {
+    list-style-type: none;
+}
+li{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+#enterhere{
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+    width: 20vw;
+}
+.notEaten{
+    padding: 10px;  
+    display: inline-block; 
+    width: 50%;
+}
+.Ate{
+    color: rgb(46, 77, 45);
+}
+
+#enterhere{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    width: 20vw;
+}
+
+
+h1 {
+    color:green;
+}
+
+.finished{
+
+border-radius: 5px;
+
+}
